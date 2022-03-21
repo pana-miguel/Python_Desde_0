@@ -20,6 +20,6 @@ print(f"la longitud es {longitud}")
 
 si la respuesta tiene demaciado decimales 
 se usa lo siguiente :
-print(f"........ {longitud:.3f} ")
+print(f"........ {longitud:.3f} " )
 
 """
